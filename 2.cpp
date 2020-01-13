@@ -1,3 +1,0 @@
-Hello cpp!
-Add
-Test
